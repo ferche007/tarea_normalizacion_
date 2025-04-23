@@ -66,3 +66,8 @@ rel4 = Relvar(
     multivalued_dependencies=[mvd]
 )
 print(is_relvar_in_4nf(rel4))  # Depende de si A es superllave
+
+
+La entrega de esta tarea se realiza mediante el siguiente repositorio público de GitHub:
+
+https://github.com/ferche007/tarea_normalizacion_
