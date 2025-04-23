@@ -17,9 +17,8 @@ SUPOSICIONES REALIZADAS
   - {A}->->{B} para dependencias multivaluadas
 - Todos los atributos se representan como strings únicos y válidos (sin espacios).
 - Los objetos Attribute son inmutables y se comparan por nombre.
-- El encabezado (heading) de una relación es un conjunto de strings que se convierten internamente en objetos Attribute.
+- El encabezado de una relación es un conjunto de strings que se convierten internamente en objetos Attribute.
 - Las dependencias funcionales y multivaluadas se validan y transforman al ser construidas.
-- Las funciones de verificación de formas normales asumen que las dependencias ya están correctamente normalizadas sintácticamente.
 
 EJEMPLOS DE USO DE LAS FUNCIONES
 
