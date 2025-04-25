@@ -9,7 +9,7 @@ necesario crear un ambiente virtual. Está desarollado y probado con Python 3.13
 pero debe funcionar con 3.8 o superior.
 
 ## Estructura
-
+Equipo: Fernando Mejía, Bernardo Perez, Francisco Pérez, Leonardo Villareal 
 SUPOSICIONES REALIZADAS
 
 - Las expresiones de dependencias funcionales y multivaluadas siguen la notación:
